@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afaf2743-bdcb-4cb5-80cf-683b395432c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/John_Kunkle.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/John_Kunkle/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/John_Kunkle/JS/Personal.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/day4.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/Index.html" afterPath="$PROJECT_DIR$/John_Kunkle/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kunkle_John_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +30,7 @@
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -48,7 +39,7 @@
       <file leaf-file-name="expressions_personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="59" selection-start="409" selection-end="409" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
+            <state line="16" column="18" selection-start="436" selection-end="436" vertical-scroll-proportion="0.2961918" vertical-offset="0" max-vertical-offset="709">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -73,6 +64,7 @@
         <option value="$PROJECT_DIR$/John_Kunkle/JS/Personal.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js" />
+        <option value="$PROJECT_DIR$/John_Kunkle/Index.html" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" />
       </list>
     </option>
@@ -172,6 +164,42 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -244,13 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
@@ -265,9 +286,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="59" selection-start="409" selection-end="409" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
+        <state line="16" column="18" selection-start="436" selection-end="436" vertical-scroll-proportion="0.2961918" vertical-offset="0" max-vertical-offset="709">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
