@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="afaf2743-bdcb-4cb5-80cf-683b395432c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/Index.html" afterPath="$PROJECT_DIR$/John_Kunkle/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kunkle_John_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +27,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="0.17518248" vertical-offset="0" max-vertical-offset="685">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="expressions_personal.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="expressions_industry.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="14" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expressions_personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="18" selection-start="436" selection-end="436" vertical-scroll-proportion="0.2961918" vertical-offset="0" max-vertical-offset="709">
+            <state line="18" column="0" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -62,9 +71,9 @@
       <list>
         <option value="$PROJECT_DIR$/John_Kunkle/JS/day4.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/Personal.js" />
-        <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/Index.html" />
+        <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js" />
         <option value="$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js" />
       </list>
     </option>
@@ -281,24 +290,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+        <state line="3" column="14" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/expressions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="436" selection-end="436" vertical-scroll-proportion="0.2961918" vertical-offset="0" max-vertical-offset="709">
+        <state line="18" column="0" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/John_Kunkle/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="132" selection-end="132" vertical-scroll-proportion="0.17518248" vertical-offset="0" max-vertical-offset="685">
+          <folding />
         </state>
       </provider>
     </entry>
