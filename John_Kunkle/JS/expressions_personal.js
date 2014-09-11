@@ -14,5 +14,5 @@ var sets = prompt("How many sets of each exercise?");
 //more prompts for var
 var reps = prompt("How many reps are you going to do for each");
 //assigning reps to the question of how many reps they plan on doing
-console.log(muscleGroups*exercises*sets*reps);
+console.log("You will complete "+muscleGroups*exercises*sets*reps+" reps at the gym");
 //taking all the answers(var) and multiplying them
