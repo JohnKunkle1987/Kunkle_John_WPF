@@ -13,3 +13,4 @@ one[1] = (" is the number of fingers you should have.")
 //setting index one of the array to a string
 alert(one[0]*two+one[1]);
 //alerting answer with all given positions of the array.
+//done
