@@ -46,7 +46,7 @@
       <file leaf-file-name="conditional_personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="66" selection-start="524" selection-end="524" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
+            <state line="24" column="73" selection-start="817" selection-end="817" vertical-scroll-proportion="0.4654443" vertical-offset="0" max-vertical-offset="709">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -474,13 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="686">
@@ -516,9 +509,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="66" selection-start="524" selection-end="524" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
+        <state line="24" column="73" selection-start="817" selection-end="817" vertical-scroll-proportion="0.4654443" vertical-offset="0" max-vertical-offset="709">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>

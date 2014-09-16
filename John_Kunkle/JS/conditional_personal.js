@@ -13,3 +13,13 @@ var total = (space*time);
 //adding space and time in a var
 (total<=woodNeeded)?console.log("Go farm some more."):console.log("You will have enough.");
 //using a ternary statement for, if total is less than woodNeeded.
+if (isNaN(woodNeeded)){
+    console.log("Please enter a valid number");
+}
+if (isNaN(space)){
+        console.log("please enter a valid number");
+    }
+if (isNaN(time)){
+    console.log("please enter a valid number");
+}
+//validation section asking for check of the prompt answer to be a number
