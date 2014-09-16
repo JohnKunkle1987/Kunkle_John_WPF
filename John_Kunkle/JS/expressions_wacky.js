@@ -4,7 +4,7 @@
 // John Kunkle 9/10/14
 
 var one = [];
-//creating empty array names "one"
+//creating empty array named "one"
 one[0]= prompt("How many fingers do you have on your right hand?");
 //setting index slot 0 of the array to the answer of the prompt.
 var two = prompt("How many hands do you have?");
