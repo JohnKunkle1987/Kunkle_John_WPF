@@ -22,3 +22,6 @@ if (tipEstimated<=gas+food+beer){
 }else if(tipEstimated>=gas+food+beer){
     console.log("GO HAVE A DRINK!!");
 }
+else if(totalEarned>2000||tipEstimated<=food){
+    console.log("You have earned many drinks forget this night.")
+}
