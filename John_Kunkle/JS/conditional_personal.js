@@ -11,15 +11,15 @@ var time = prompt("how much time do you have?");
 //assigning time var to a prompt
 var total = (space*time);
 //adding space and time in a var
-(total<=woodNeeded)?console.log("Go farm some more."):console.log("You will have enough.");
+(total>=woodNeeded)?console.log("you will have enough."):console.log("You will NOT have enough.");
 //using a ternary statement for, if total is less than woodNeeded.
 if (isNaN(woodNeeded)){
     console.log("Please enter a valid number");
 }
-if (isNaN(space)){
+if (isNaN(space||space==="")){
         console.log("please enter a valid number");
     }
-if (isNaN(time)){
+if ((isNaN(time)||time==="")){
     console.log("please enter a valid number");
 }
 //validation section asking for check of the prompt answer to be a number
