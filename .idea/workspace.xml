@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afaf2743-bdcb-4cb5-80cf-683b395432c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_wacky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/indexDay5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/Index.html" afterPath="$PROJECT_DIR$/John_Kunkle/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/expressions_wacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js" />
     </list>
     <ignored path="Kunkle_John_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,7 +46,7 @@
       <file leaf-file-name="conditional_personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="91" selection-start="331" selection-end="331" vertical-scroll-proportion="0.23272215" vertical-offset="0" max-vertical-offset="709">
+            <state line="14" column="66" selection-start="524" selection-end="524" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -526,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="91" selection-start="331" selection-end="331" vertical-scroll-proportion="0.23272215" vertical-offset="0" max-vertical-offset="709">
+        <state line="14" column="66" selection-start="524" selection-end="524" vertical-scroll-proportion="0.2538787" vertical-offset="0" max-vertical-offset="709">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
