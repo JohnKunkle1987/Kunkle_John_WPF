@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="afaf2743-bdcb-4cb5-80cf-683b395432c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/indexDay5.html" afterPath="$PROJECT_DIR$/John_Kunkle/indexDay5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kunkle_John_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,7 +57,7 @@
       <file leaf-file-name="conditional_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="1" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.7404795" vertical-offset="0" max-vertical-offset="709">
+            <state line="38" column="42" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.7616361" vertical-offset="0" max-vertical-offset="709">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -525,7 +522,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="1" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.7404795" vertical-offset="0" max-vertical-offset="709">
+        <state line="38" column="42" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.7616361" vertical-offset="0" max-vertical-offset="709">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>

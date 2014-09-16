@@ -36,3 +36,4 @@ if ((isNaN(totalEarned)||totalEarned==="")){
 
     alert("You must enter a valid Number");
 }
+//validate on total earned as real number.
