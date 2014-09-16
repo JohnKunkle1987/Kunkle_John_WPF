@@ -19,7 +19,7 @@ if (isNaN(woodNeeded)){
 if (isNaN(space||space==="")){
         console.log("please enter a valid number");
     }
-if ((isNaN(time)||time==="")){
+if (isNaN(time)||time===""){
     console.log("please enter a valid number");
 }
 //validation section asking for check of the prompt answer to be a number
