@@ -2,7 +2,7 @@
  * Created by MyVyrus on 9/15/14.
  */
 
-/*
+
 //// Validating prompts
 var min = prompt("Enter a Min number");
 var max = prompt ("Enter Max number");
@@ -13,7 +13,7 @@ if (min===""){
     console.log("You did not enter a number");
     min = prompt("Please enter a Min number");
 }
-
+/*
 //inNAN
 if (isNaN(min)||min===""){
     min = prompt("PLEASE enter a number min and do not leave blank");
@@ -21,13 +21,22 @@ if (isNaN(min)||min===""){
 if (isNaN(max)||max===""){
     max = prompt("You need to enter a Max number and not leave it blank");
 }
-
-var random = Math.random()*(max-min)+min;
-
-console.log(Math.round(random));
 */
 
-var num1 = 9.555;
+////////LOOPS While loop runs as long as condition is true
+
+while(isNaN(min)|| min===""){
+//the loop will keep running until min is a number or not blank.
+    min = prompt("PLEASE enter a number min and do not leave blank");
+}
+
+
+//var random = Math.random()*(max-min)+min;
+
+//console.log(Math.round(random));
+
+
+/*var num1 = 9.555;
 console.log(num1);
 console.log(Math.round(num1));
 //round
@@ -41,3 +50,4 @@ console.log(num2);
 var num3 = Math.random()*10;
 console.log(num3);
 //random number 1-10
+*/

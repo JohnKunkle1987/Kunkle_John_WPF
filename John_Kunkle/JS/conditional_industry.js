@@ -5,7 +5,7 @@
 
 var totalEarned = prompt("How much was your total sales?");
 //set totalEarned to prompt
-var tipEstimated = (totalEarned*.16);
+var tipEstimated = Math.ceil(totalEarned*.16);
 //set tipEstimated to 16% of total
 var gas = 20;
 //assigned gas to set amount
@@ -13,6 +13,7 @@ var food = 15;
 //assigned food to set amount
 var beer = 30;
 //assigned beer to set amount
+console.log(tipEstimated);
 if(totalEarned>2000||tipEstimated<=food){
 //asking if total is over 2000 or tips estimated is under the cost of food.
     console.log("You have earned many drinks, forget this night.")
