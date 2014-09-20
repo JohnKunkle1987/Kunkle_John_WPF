@@ -2,20 +2,20 @@
  * Created by MyVyrus on 9/19/14.
  */
 
-//setting function name as r
+//setting function name as circle with argument as r
 function circle(r){
 
     var circumference = 2*3.14*r;
 
     return circumference;
-
+// returning circumference
 
 
 }
 var x = circle(2);
-
+//x to be the return of function
 console.log("The circumference of this circle is " + x);
-
+//logging the function as a var
 
 
 //////////////////////
