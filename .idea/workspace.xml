@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afaf2743-bdcb-4cb5-80cf-683b395432c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/beer_loops.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day8_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/functions_worksheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/John_Kunkle/JS/zombie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/Index.html" afterPath="$PROJECT_DIR$/John_Kunkle/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/conditional_industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/day6.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/day6.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/indexDay5.html" afterPath="$PROJECT_DIR$/John_Kunkle/indexDay5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/John_Kunkle/JS/functions_worksheet.js" afterPath="$PROJECT_DIR$/John_Kunkle/JS/functions_worksheet.js" />
     </list>
     <ignored path="Kunkle_John_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,8 +86,10 @@
       <file leaf-file-name="functions_worksheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/functions_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.06559767" vertical-offset="0" max-vertical-offset="686">
-              <folding />
+            <state line="4" column="28" selection-start="71" selection-end="71" vertical-scroll-proportion="0.036363635" vertical-offset="0" max-vertical-offset="825">
+              <folding>
+                <element signature="n#!!doc;n#circle#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +97,7 @@
       <file leaf-file-name="day6.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="26" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="840">
+            <state line="17" column="26" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="840">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -149,10 +141,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="37" />
-    <option name="width" value="1104" />
-    <option name="height" value="806" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -242,7 +232,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -298,14 +288,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="37" width="1104" height="806" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.317029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -586,15 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/beer_loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
@@ -646,6 +627,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="26" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/day8.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1275">
@@ -673,8 +663,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/John_Kunkle/JS/functions_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.06559767" vertical-offset="0" max-vertical-offset="686">
-          <folding />
+        <state line="4" column="28" selection-start="71" selection-end="71" vertical-scroll-proportion="0.036363635" vertical-offset="0" max-vertical-offset="825">
+          <folding>
+            <element signature="n#!!doc;n#circle#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
