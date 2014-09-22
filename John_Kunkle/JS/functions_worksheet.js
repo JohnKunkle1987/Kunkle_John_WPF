@@ -22,14 +22,14 @@ console.log("The circumference of this circle is " + x);
 
 //setting function name as beeStings and the argument as w
 function beeStings(w){
-// set var strings with my equation
+//set var strings with my equation
     var stings = 8.666666667*w;
 
     return stings
-// using return for stings so i can use it in a var
+//using return for stings so i can use it in a var
 
 }
-var x = beeStings(193);
+var y = beeStings(193);
 //taking my return for stings and setting it to var x
-console.log("It takes " + x +" bee stings to kill this animal");
-// logging function as a var
+console.log("It takes " + y +" bee stings to kill this animal");
+//logging function as a var
