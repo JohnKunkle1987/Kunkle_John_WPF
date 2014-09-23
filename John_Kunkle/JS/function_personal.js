@@ -13,7 +13,7 @@ var length = 90;
 //using anon function with name of table
 var table = function (a,b,c){
 
-    tableVolume = a*b*c;
+    var tableVolume = a*b*c;
     return tableVolume;
 //returning table volume to be used later
 }
