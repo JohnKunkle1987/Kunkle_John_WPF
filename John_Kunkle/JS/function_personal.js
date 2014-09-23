@@ -5,19 +5,20 @@
 
 ////Table size
 
+//setting vars
 var height = 70;
 var width = 55;
 var length = 90;
 
-
-var table = function volume(a,b,c){
+//using anon function with name of table
+var table = function (a,b,c){
 
     tableVolume = a*b*c;
     return tableVolume;
 
 }
 var totalTable = table(height,width,length);
-console.log("The table is " + totalTable+"cm");
+console.log("The table is " + totalTable+" squared cm");
 
 if(totalTable>=500000){
 
