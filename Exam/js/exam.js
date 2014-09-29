@@ -29,4 +29,3 @@ function item(cost,discount){
 var priceWithDiscount = item(itemCost,discount1);
 
 console.log( "With your "+itemCost+"$ item and discount of "+ discount1 +"% your total is " + priceWithDiscount)+"$";
- //git hub?
